@@ -45,7 +45,10 @@
 
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
-![LinkedIn](https://www.linkedin.com/in/abdulrahmanfa2hy/)
-![Gmail](mailto:abdelrhman.fa2hy@gmail.com)
-![WhatsApp](https://wa.me/201158371316)
+<a href="https://www.linkedin.com/in/abdulrahmanfa2hy/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abdelrhman.fa2hy@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://wa.me/201158371316"><img src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/201158371316)
+<br/>
+
 
