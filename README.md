@@ -26,16 +26,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-<--! ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)-->
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![React.js](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
  </p>
 
   
@@ -46,12 +38,12 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaeid1998&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanFa2hy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="most used languages" />
 
 <p align="center">      
 <a href="https://github.com/AbdulrahmanFa2hy">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanFa2hy&show_icons=true&locale=en&theme=vision-friendly-dark" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaeid1998&theme=vision-friendly-dark" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanFa2hy&theme=vision-friendly-dark" />
 </a>
 </p>
 
@@ -62,5 +54,5 @@
 <a href="https://www.linkedin.com/in/abdulrahmanfa2hy/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdelrhman.fa2hy@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01158371316)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+201158371316)
 <br/><br/>
