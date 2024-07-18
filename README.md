@@ -26,7 +26,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React.js](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  </p>
 
@@ -40,19 +40,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanFa2hy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="most used languages" />
 
-<p align="center">      
-<a href="https://github.com/AbdulrahmanFa2hy">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanFa2hy&show_icons=true&locale=en&theme=vision-friendly-dark" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanFa2hy&theme=vision-friendly-dark" />
-</a>
-</p>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 <a href="https://www.linkedin.com/in/abdulrahmanfa2hy/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdelrhman.fa2hy@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+201158371316)
-<br/><br/>
+<a href="mailto:abdelrhman.fa2hy@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=201158371316)
+<br/>
