@@ -22,7 +22,6 @@
  </p>
 
 </br>
-</br>
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 <a href="https://www.linkedin.com/in/abdulrahmanfa2hy/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
