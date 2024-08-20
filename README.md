@@ -23,9 +23,6 @@
 
 
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 <a href="https://www.linkedin.com/in/abdulrahmanfa2hy/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdelrhman.fa2hy@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
