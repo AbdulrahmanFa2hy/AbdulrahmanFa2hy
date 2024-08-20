@@ -21,15 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
  </p>
 
-  
-<br/>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-<h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats and Activity</h2>
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanFa2hy&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="most used languages" />
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
