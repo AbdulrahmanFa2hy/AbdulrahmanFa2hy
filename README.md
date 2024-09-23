@@ -22,7 +22,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-4a90e2?style=flat-square&logo=api&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira_Software-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Jira Software](https://img.shields.io/badge/-Jira_Software-0052CC?style=flat-square&logo=jira&logoColor=white)
  </p>
  
 </br>
