@@ -5,8 +5,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer+ (React .JS);Always+Learning+New+Things!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=25&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer+%28React+JS%29;Always+Learning+New+Things%21"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
+
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">   
  Languages and Tools :</h2> 
